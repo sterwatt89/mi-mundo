@@ -1,0 +1,36 @@
+.example1{
+    border: 2px solid black;
+    padding:25px;
+    background: url(../img/wolfSky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+     font-weight: 900;
+    font-family: cursive,fantasy;
+    font-style: italic;
+    color:coral;
+}
+
+.example2{
+    
+    border:2px solid black;
+    padding:25px;
+    background: url(../img/ImgFantasia%20046.jpg);
+    background-repeat: no-repeat;
+    background-size: 75% 50%;
+    font-weight: 900;
+    font-family: cursive,fantasy;
+    font-style: italic;
+    color: aqua;
+}
+.example3{
+    
+    border:2px solid black;
+    padding:25px;
+    background: url(../img/ImgFantasia%20046.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-weight: 900;
+    font-family: cursive,fantasy;
+    font-style: italic;
+    color: cornsilk;
+}
