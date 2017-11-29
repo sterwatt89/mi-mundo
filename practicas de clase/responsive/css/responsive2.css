@@ -1,0 +1,30 @@
+@media screen and (max-width:699px)and(min-width:1151px){
+    
+    
+     #nav li a {
+        padding-left:30px;
+        background: url(../img/wolfSky.jpg) left center no-repeat;
+}
+
+}
+    
+   
+@media screen and (max-width:1000px)and(min-width:700px){
+    
+    
+    #nav li a :before{ 
+    content:"email: ";
+        font-style: italic;
+    color: #666666
+    
+    }
+}
+
+
+
+
+
+content:"email: ";
+
+font-style:italic;
+color: #666666;
